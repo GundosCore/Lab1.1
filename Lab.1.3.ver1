@@ -4,7 +4,7 @@
 #include <ctime>
 
 class Entity {
-public:
+protected:
     std::string name;
     int health;
     int attack;
